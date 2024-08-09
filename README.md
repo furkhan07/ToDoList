@@ -7,7 +7,8 @@ To Do List App React JS by WebStylePress (Add, Edit, Update, Delete, Toggle Task
 Clone or download repo
 NodeJS / NPM / Yarn should be installed in your PC
 
-Open terminal or Git for Windows (Git Bash)
+Open terminal or Git for Windows (Git Bash) or VS Code
+
 Run these commands:
 
 ### Install Dependencies

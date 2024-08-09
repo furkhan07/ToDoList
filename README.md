@@ -32,13 +32,13 @@ Features
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Kaam-on.git
+   git clone (https://github.com/furkhan07/ToDoList)
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Kaam-on
+   cd ToDolist
    ```
 
 3. Install the dependencies:
@@ -65,7 +65,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
  Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact [furkhanadoni415@gmail.com]
 
 
 

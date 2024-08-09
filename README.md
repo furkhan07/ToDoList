@@ -27,10 +27,4 @@ OR
 npm start
 
 
-https://youtu.be/TmDNBEdHzVs
 
-### To Do List App React (V2) [Update]
-
-Tutorial: https://youtu.be/E2CWxv5hOso
-
-Code: https://github.com/webstylepress/To-Do-List-App-React-V2-
